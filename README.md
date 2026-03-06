@@ -227,16 +227,21 @@ Principales librerías:
 
 ```
 ML_GRUPO_1/
-
+├── .git/
+├── src/
+│   ├── data/
+│   ├── img/
+│   ├── models/
+│   │   └── modelo_optimizado.pkl
+│   ├── notebooks/
+│   ├── utils/
+│   └── ML_ppt.pptx
+├── .gitignore
 ├── main.ipynb
-├── modelo_optimizado.pkl
-├── X_test.csv
-├── y_test.csv
-├── ML_ppt.pptx
 ├── Presentación ML.pdf
-└── README.md
-```
-
+├── README.md
+├── X_test.csv
+└── y_test.csv
 ---
 
 # Autores
