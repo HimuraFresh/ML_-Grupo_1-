@@ -229,7 +229,6 @@ Principales librerías:
 ML_GRUPO_1/
 
 ├── main.ipynb
-├── Main_sara.ipynb
 ├── modelo_optimizado.pkl
 ├── X_test.csv
 ├── y_test.csv
